@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kilograms_To_Pounds.iml" filepath="$PROJECT_DIR$/.idea/modules/Kilograms_To_Pounds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kilograms_To_Pounds.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kilograms_To_Pounds.app.iml" />
+    </modules>
+  </component>
+</project>
