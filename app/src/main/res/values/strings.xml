@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kilograms To Pounds</string>
+    <string name="convert">CONVERT</string>
 </resources>
